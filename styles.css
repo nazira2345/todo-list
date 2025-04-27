@@ -1,0 +1,5 @@
+/* styles.css */
+body { background-color: #1e3a8a; color: white; font-family: Arial; }
+h1 { text-align: center; }
+input, button { padding: 5px; margin: 5px; }
+ul { list-style-type: none; padding: 0; }
